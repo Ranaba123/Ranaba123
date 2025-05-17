@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nemsara Ranaba</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaba123&label=Profile%20views&color=0e75b6&style=flat" alt="ranaba123" /> </p>
 
