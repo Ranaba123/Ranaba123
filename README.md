@@ -96,6 +96,15 @@
 
 
 <hr/>
+<div align="center">
+  <h2>🏆 Trophies 🏆</h2>
+  <br>
 
+  ![](https://github-profile-trophy.vercel.app/?username=Ranaba123&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+
+  
+  
+  <br/><br/><br/>
+</div>
 
 <br/>
