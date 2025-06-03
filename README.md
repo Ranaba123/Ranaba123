@@ -1,5 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ranaba123&label=Profile%20views&color=0e75b6&style=flat" alt="ranaba123" /> </p>
-
+<p align="center">
+  <img src="./assets/Animations.gif" alt="welcome gif" width="100%" />
+</p>
 
 
 <h1 align="center">
