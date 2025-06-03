@@ -1,8 +1,9 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <img src="assets/Animation.gif" alt="Welcome animation" width="200px" style="margin-bottom: 10px;" />
+  
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nemsara+Ranaba!;" />
   </h1>
+  <img src="assets/Animation.gif" alt="Welcome animation" width="200px" style="margin-bottom: 10px;" />
 </div>
 
 
