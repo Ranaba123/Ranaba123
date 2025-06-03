@@ -1,12 +1,13 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ranaba123&label=Profile%20views&color=0e75b6&style=flat" alt="ranaba123" /> </p>
-<p align="center">
-  <img src="assets/Animation.gif" alt="Welcome animation" width="100%" />
-</p>
-
-
-<h1 align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <img src="assets/Animation.gif" alt="Welcome animation" width="200px" style="margin-bottom: 10px;" />
+  <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nemsara+Ranaba!;" />
-</h1>
+  </h1>
+</div>
+
+
+
+
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <br/>
 <div align="center">
