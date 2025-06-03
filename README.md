@@ -1,8 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ranaba123&label=Profile%20views&color=0e75b6&style=flat" alt="ranaba123" /> </p>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  
-  <h1>
+    <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nemsara+Ranaba!;" />
   </h1>
   <img src="assets/Animation.gif" alt="Welcome animation" width="200px" style="margin-bottom: 10px;" />
