@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ranaba123&label=Profile%20views&color=0e75b6&style=flat" alt="ranaba123" /> </p>
+
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
   
   <h1>
